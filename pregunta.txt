@@ -1,0 +1,10 @@
+Dividir el programa en diferentes funciones tiene varias ventajas.
+Primero, permite organizar mejor el código y hacerlo más fácil de entender.
+También permite reutilizar una función varias veces sin repetir el código.
+Además, cada función puede encargarse de una tarea específica.
+Esto hace que sea más fácil encontrar y corregir errores en el programa.
+Por ejemplo, podemos tener una función para buscar estudiantes.
+También podemos tener funciones para obtener aprobados y reprobados.
+Otra función puede calcular el promedio general de los estudiantes.
+En este proyecto también usamos una función para generar el ranking.
+En conclusión, dividir el programa hace que sea más ordenado y fácil de modificar.
